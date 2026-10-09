@@ -1,4 +1,4 @@
-# City Care Hospital — Hospital Management System (HMS)
+
 
 A full-stack Hospital Management System:
 
