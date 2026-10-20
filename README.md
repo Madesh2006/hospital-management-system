@@ -1,6 +1,4 @@
-# City Care Hospital — Hospital Management System (HMS)
-
-A full-stack Hospital Management System:
+ lkdfmbkmbxkm;kdmkb
 
 - **Frontend:** React (Vite) + Tailwind CSS + React Router + Axios + Context API + Chart.js + React Icons
 - **Backend:** Python FastAPI + SQLAlchemy ORM + MySQL + JWT Auth + Pydantic + bcrypt
